@@ -1,0 +1,11 @@
+PASS = "myNSpass"
+CHANNEL = "#Knights"
+HOST = "irc.esper.net"
+PORT = 6697
+USERNAME = "" # for authentication, can be left blank if same as NICK
+NICK = ""
+IDENT = NICK
+REALNAME = NICK
+
+USE_SASL = True
+USE_SSL = True
